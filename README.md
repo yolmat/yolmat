@@ -37,7 +37,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar // where to find me </h3> 
+<h3>:earth_americas: &nbsp;Onde me encontrar // where to find me </h3> 
 
 [![Linkedin: Mateus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-saraiva/)](https://www.linkedin.com/in/mateus-saraiva/)
 [![GitHub yolmat]( https://img.shields.io/github/followers/yolmat?label=follow&style=social)](https://github.com/yolmat)
