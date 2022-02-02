@@ -1,4 +1,4 @@
-<h3> :man: &nbsp;Sobre mim // About me</h3>
+<h3>:man: &nbsp;Sobre mim // About me</h3>
 
 - 🤔 &nbsp; Sou Mateus ou yolmat, tenho 18 anos e amo programar. // I'm Mateus or yolmat, 18 years old and I love programming.
 - 🎓 &nbsp; Estudante do **DevClub**. // **DevClub** Student.
