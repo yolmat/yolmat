@@ -12,6 +12,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **DevOps**
 
@@ -24,7 +25,6 @@
 
 **Proximo passo** // **Next step**
 
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
 <br/>
@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yolmat&theme=dracula&show_icons=true" />
 </a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&hide=html&layout=compact=true&theme=dracula)](https://github.com/yolmat/)
+[![yolmat](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&hide=html&layout=compact=true&theme=dracula)](https://github.com/yolmat/)
 
 <br/>
 
