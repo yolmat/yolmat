@@ -29,11 +29,9 @@
   
 <br/>
 
-<a href="https://github.com/yolmat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yolmat&theme=dracula&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=yolmat&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yolmat](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&hide=html&layout=compact=true&theme=dracula)](https://github.com/yolmat/)
+[![yolmat](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
