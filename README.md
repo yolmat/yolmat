@@ -31,7 +31,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=yolmat&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![yolmat](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&theme=dark&size_weight=0.5&count_weight=0.5)
 
 <br/>
 
