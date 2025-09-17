@@ -1,41 +1,50 @@
-<h3>:man: &nbsp;Sobre mim // About me</h3>
+<h1 align="center">👋 Olá, eu sou o Mateus (yolmat)</h1>
 
-- 🤔 &nbsp; Sou Mateus ou yolmat, tenho 18 anos e amo programar. // I'm Mateus or yolmat, 18 years old and I love programming.
-- 🎓 &nbsp; Estudante do **DevClub**. // **DevClub** Student.
-- 💼 &nbsp; Procurando um emprego na área de programação. // Looking for a job in programming.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**. // Learning more about **JavaScript**.
+<p align="center">
+  🌍 Sou fullstack developer, gosto de unir lógica e criatividade para construir coisas úteis (e às vezes só divertidas também 😅).<br/>
+  🎓 Último semestre de <b>Análise e Desenvolvimento de Sistemas</b>.<br/>
+  🚀 Construindo projetos com <b>Next.js, Tailwind, TypeScript, Node.js</b> e muito mais.<br/>
+</p>
 
-<h3> :rocket: &nbsp;Minhas Skills // My skills</h3>
+---
 
-**Aplicações e Dados** // **Applications and Data**
+## 🚀 &nbsp;Tecnologias que uso no dia a dia  
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento** // **Development Tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-**Proximo passo** // **Next step**
-
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+**Front-end**
   
-<br/>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
 
-[![card](https://github-readme-stats.vercel.app/api?username=yolmat&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+**Back-end e Banco de Dados**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&theme=dark&size_weight=0.5&count_weight=0.5)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<br/>
+**Ferramentas e Outros**
 
-<h3>:earth_americas: &nbsp;Onde me encontrar // where to find me </h3> 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![VBA](https://img.shields.io/badge/-VBA-333333?style=flat&logo=microsoft-excel&logoColor=217346)
 
-[![Linkedin: Mateus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-saraiva/)](https://www.linkedin.com/in/mateus-saraiva/)
-[![GitHub yolmat]( https://img.shields.io/github/followers/yolmat?label=follow&style=social)](https://github.com/yolmat)
+---
+
+## 📊 &nbsp;Estatísticas no GitHub  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yolmat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+## 🌎 &nbsp;Onde me encontrar  
+
+[![Linkedin: Mateus Saraiva](https://img.shields.io/badge/-Mateus%20Saraiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-saraiva/)](https://www.linkedin.com/in/mateus-saraiva/)
+[![GitHub yolmat](https://img.shields.io/github/followers/yolmat?label=Seguir&style=social)](https://github.com/yolmat)
