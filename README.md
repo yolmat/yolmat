@@ -36,11 +36,7 @@
 ---
 
 ## 📊 &nbsp;Estatísticas no GitHub  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yolmat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolmat&layout=compact&langs_count=7&theme=dark"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yolmat&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 
